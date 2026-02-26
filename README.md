@@ -181,3 +181,4 @@ title('Frequency Response of Chebyshev Type-I High Pass Filter');
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/368f3201-1d86-406a-b0d5-2499a3f318c7" />
 
 ## RESULT: 
+The design of an IIR Chebyshev filter using SCILAB is sucessfully completed.
